@@ -83,3 +83,4 @@ parallel_executions: 1
 ## results, but could take a long time for slow fuzz targets. Set to
 ## true if you don't want to use the initial input corpus.
 #no_initial_corpus: true
+
